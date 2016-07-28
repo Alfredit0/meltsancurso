@@ -59,5 +59,10 @@ try{
 
 	default: System.out.println("Reprobaste");
 	}
+
+do{
+System.out.println("Grade: "+grade);
+grade++;
+}while(grade<=100);
 }
 }

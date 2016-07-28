@@ -1,5 +1,5 @@
 /**
- *
+ * Busca el nombre mas largo
  * @author Alfredo Reyes
  * @version 1.0
  */

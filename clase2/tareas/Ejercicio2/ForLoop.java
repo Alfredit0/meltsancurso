@@ -1,5 +1,5 @@
 /**
- *
+ * Busca un nombre en un arreglo de nombres definidos
  * @author Alfredo Reyes
  * @version 1.0
  */

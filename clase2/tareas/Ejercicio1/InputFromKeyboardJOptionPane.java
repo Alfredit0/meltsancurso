@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 import java.lang.*;
 /**
- *
+ *Lee la edad y dice si es viejo o joven
  * @author Alfredo Reyes
  * @version 1.0
  */

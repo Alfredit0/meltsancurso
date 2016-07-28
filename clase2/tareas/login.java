@@ -1,3 +1,8 @@
+/**
+ * Pide usuario y contraseña. Solo 3 intentos para la contraseña y el nombre es necesario
+ * @author Alfredo Reyes
+ * @version 1.0
+ */
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
